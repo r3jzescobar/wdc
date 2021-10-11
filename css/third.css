@@ -1,0 +1,27 @@
+<style>
+            h2 {
+                text-align: center;
+                color: tomato;
+            }
+            p {
+                color:teal;
+            }
+            #firstHeading{
+                text-align: center;
+                color:burlywood
+
+            }
+            .logo {
+                height: 50px;
+                width: 50px;
+            }
+            .firstpara{
+                color:rgb(238, 130, 135);
+                font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+            }
+            .secondpara{
+                color:rgb(red, green, blue);
+                font-family :cursive;
+            }
+
+</style>
