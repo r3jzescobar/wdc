@@ -1,0 +1,19 @@
+#first{
+    position: relative;
+    height: 400px;
+    width: 400px;
+    left:40px;
+    border: 3px  solid green
+    
+}
+
+#second{
+    position: absolute;
+    top: 80px;
+    left: 0;
+    width: 200px;
+    height: 100px;
+    border: 3px solid blueviolet;
+    
+    
+}
