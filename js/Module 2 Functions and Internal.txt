@@ -1,0 +1,31 @@
+//1) Write a function which has no name to calculate cube of a number
+
+// var cube = function(a){
+
+//     console.log("the cube answer");
+//     return a*a*a;
+// }
+
+// cube(3);
+
+// setTimeout(function(){console.log("anonymous function call ins set Timout")},3000);
+
+
+//2) Define a function to convert Fahrenheit to Degree and vice versa
+
+// function getFarenheight(f){
+//     console.log('Fahrenheit_to_Celsius');
+
+
+//     return (f - 32) * 5/9; 
+
+// }
+// console.log(getFarenheight(30));
+// getFarenheight(-20);
+
+// 3) Write a self-invoking function to print Hello JavaScript in an alert box
+
+(function(){
+
+    alert("Hello Java Script");
+})();
